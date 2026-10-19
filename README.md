@@ -2,6 +2,10 @@
 
 # Graph Nets library
 
+<p align="center">
+  <b>English</b> · <a href="https://github.com/google-deepmind/graph_nets/blob/master/README.zh.md">简体中文</a>
+</p>
+
 [Graph Nets](https://github.com/deepmind/graph_nets) is DeepMind's library for
 building graph networks in Tensorflow and Sonnet.
 
